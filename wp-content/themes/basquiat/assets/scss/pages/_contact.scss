@@ -1,0 +1,37 @@
+.contact__items{
+  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
+  color: #fafafa;
+  line-height: 2;
+  text-decoration: none;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.contact__items label{
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+}
+.contact__submit{
+  background: #FAFAFA !important;
+  color: #212121 !important;
+  border: none !important;
+  width: 300px !important;
+  height: 38px !important;
+  transition: all 0.4s ease !important;
+}
+.contact__submit:hover{
+  background: #E9C22A !important;
+  color: #fafafa !important;
+}
+.contact__imageWrapper{
+  height: 700px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.contact__text h1{
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}

@@ -1,0 +1,100 @@
+.single-content-wrapper{
+    margin: 20px;
+}
+
+.single-content-wrapper .thumbnail {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.single-content-wrapper .thumbnail img {
+    width: 100%;
+    height: 100%;
+}
+
+.article-content .article-text img{
+    width: 100%;
+    margin:auto;
+}
+
+#content .container{
+	width:100%;
+	margin:auto;
+}
+
+.container .article-content{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.article-content .article-title{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: Abril Fatface;
+    font-style:normal;
+    font-weight: normal;
+    line-height: 71px;
+    font-size: 48px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#attachment_21{
+    width:100%;
+	margin:auto;
+}
+
+.wp-caption{
+    margin:15px;
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.article-content .article-date{
+    margin-top:30px;
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: normal;
+    line-height: normal;
+    text-align: right;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.article-end{
+    width: 100%;
+    margin: auto;
+}
+
+.article-end .all-articles{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+
+.all-articles .home-return{
+    margin-bottom: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.home-return:hover{
+    color: #E3B721;
+}

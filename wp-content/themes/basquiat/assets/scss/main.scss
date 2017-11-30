@@ -1,0 +1,20 @@
+@charset 'UTF-8';
+
+@import
+'bases/_reset.scss';
+
+@import
+'pages/_home.scss',
+'pages/_bio.scss',
+'pages/_actualite.scss',
+'pages/_single.scss',
+'pages/_blog.scss',
+'pages/_contact.scss',
+'pages/_gallery.scss';
+
+
+
+
+@import
+"partials/_header.scss",
+"partials/_footer.scss";

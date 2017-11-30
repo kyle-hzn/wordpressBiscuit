@@ -1,0 +1,29 @@
+.blog__intro {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.blog__introContent {
+  padding-top: 20%;
+  h1 {
+    color: #fefefe;
+    font-size: 80px;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 63px;
+  }
+  p {
+    color: #fefefe;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    line-height: 1.2;
+  }
+}
+
+.blog__morePost{
+  background: red;
+  background: red;
+}
